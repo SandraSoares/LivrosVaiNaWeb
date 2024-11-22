@@ -1,0 +1,16 @@
+.primeiraSessaoInicio {
+    background-color: tomato;
+    height: 80vh;
+    background-image: url('../../assets/LIVRO.png');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-left: 4%;
+
+
+    h2 {
+        color: #fff;
+        font-size: 20px;
+        width: 16%;
+    }
+}
